@@ -1,5 +1,4 @@
 # Filter20_24NT
-# Filter300NT
 Author: Deborah Bambil
 
 This script remove long sequences (max. length of 20-24 nt), according to updated criteria for plant pre-miRNA annotations (Axtell and Meyers 2018).
